@@ -28,10 +28,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephjuneau/stephjuneau.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have authored and co-authored 109 publications, 79 of which are peer reviewed. The full publication list is available on [ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22juneau%2Cs.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Get in touch by email or find me on Twitter @StephaJuneau
+
+### Notes
+
+Webpage [documentation](https://docs.github.com/categories/github-pages-basics/)
