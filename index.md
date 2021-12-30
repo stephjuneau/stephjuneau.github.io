@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am an Associate Astronomer at [NSF's NOIRLab](https://noirlab.edu/), as well as a Survey Data Scientist in the [Astro Data Lab](https://datalab.noao.edu) team.
+I am an Associate Astronomer at [NSF's NOIRLab](https://noirlab.edu/), as well as a Survey Data Scientist in the [Astro Data Lab](https://datalab.noirlab.edu) team.
 
 ### Research
 
