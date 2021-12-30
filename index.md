@@ -8,7 +8,7 @@ My research interests focus on galaxy evolution. I am especially intrigued by th
 
 ### Publications
 
-I have authored and co-authored 109 publications, 79 of which are peer reviewed. The full publication list is available on [ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22juneau%2Cs.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+I have authored and co-authored 169 publications, 89 of which are peer reviewed. The full publication list is available on [ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22juneau%2Cs.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 ### Contact
 
